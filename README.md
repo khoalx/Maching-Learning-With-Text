@@ -1,7 +1,6 @@
 # Maching-Learning-With-Text
 ## Description
-
-    Although numeric data is easy to work with in Python, most knowledge created by humans is actually raw, unstructured text. By learning how to transform text into data that is usable by machine learning models, you drastically increase the amount of data that your models can learn from. In this tutorial, I have built and evaluated predictive models from real-world text using scikit-learn.
+   Although numeric data is easy to work with in Python, most knowledge created by humans is actually raw, unstructured text. By learning how to transform text into data that is usable by machine learning models, you drastically increase the amount of data that your models can learn from. In this tutorial, I have built and evaluated predictive models from real-world text using scikit-learn.
 
 ## Detailed Outline
 1. Model building in scikit-learn (refresher)
